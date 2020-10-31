@@ -1,2 +1,2 @@
-# React-Plant-App
-React Clone App
+# React-Native-Clone-Plant-App
+React-Native Clone App
